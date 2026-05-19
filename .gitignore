@@ -1,0 +1,17 @@
+# Excel temp files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+*.tmp
+
+# Generated PDFs (sauf le rapport principal)
+Rapport_Ventes_*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
