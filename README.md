@@ -1,4 +1,4 @@
-# 📊 VBA Sales Dashboard — Automatisation Rapport de Ventes
+#  VBA Sales Dashboard - Automatisation Rapport de Ventes
 
 > Génération automatique d'un tableau de bord commercial complet et export PDF en un clic, avec VBA et Excel.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Présentation
+##  Présentation
 
 **VBA Sales Dashboard** est une application VBA développée sous Microsoft Excel qui automatise intégralement la production du rapport commercial mensuel. À partir d'une simple liste de ventes, l'outil génère en quelques secondes :
 
@@ -21,7 +21,7 @@ Le projet répond à une problématique métier réelle : éliminer le travail m
 
 ---
 
-## 🖼️ Aperçu
+##  Aperçu
 
 ### Dashboard généré automatiquement
 ![Dashboard](screenshots/01_dashboard.png)
@@ -37,7 +37,7 @@ Le projet répond à une problématique métier réelle : éliminer le travail m
 
 ---
 
-## ⚙️ Fonctionnalités
+##  Fonctionnalités
 
 ### 6 KPI calculés automatiquement
 | KPI | Description |
@@ -63,7 +63,7 @@ Le projet répond à une problématique métier réelle : éliminer le travail m
 
 ---
 
-## 🛠️ Stack technique
+##  Stack technique
 
 | Composant | Technologie |
 |-----------|-------------|
@@ -94,10 +94,10 @@ VBA-Sales-Dashboard/
 ```
 
 ### Structure du classeur Excel
-- 📋 **Données** — Saisie des ventes brutes (entrée)
-- 📊 **Dashboard** — Tableau de bord généré (sortie)
-- 🔢 **Analyse** — Calculs intermédiaires (masquée)
-- 📖 **Instructions** — Guide d'utilisation
+-  **Données** — Saisie des ventes brutes (entrée)
+-  **Dashboard** — Tableau de bord généré (sortie)
+-  **Analyse** — Calculs intermédiaires (masquée)
+-  **Instructions** — Guide d'utilisation
 
 ### Structure du module VBA
 ```vba
@@ -115,7 +115,7 @@ Module "RapportVentes"
 
 ---
 
-## 🚀 Utilisation
+##  Utilisation
 
 ### Prérequis
 - Microsoft Excel 2016 ou supérieur
@@ -144,7 +144,7 @@ Module "RapportVentes"
 
 ---
 
-## 🧠 Bonnes pratiques mises en œuvre
+##  Bonnes pratiques mises en œuvre
 
 - ✅ **`Option Explicit`** — Déclaration obligatoire des variables
 - ✅ **Constantes globales** centralisées pour la maintenance
@@ -157,7 +157,7 @@ Module "RapportVentes"
 
 ---
 
-## 📦 Installation du module dans un autre classeur
+##  Installation du module dans un autre classeur
 
 Si tu veux utiliser le module dans ton propre fichier Excel :
 
@@ -169,7 +169,7 @@ Si tu veux utiliser le module dans ton propre fichier Excel :
 
 ---
 
-## 🔮 Améliorations futures
+##  Améliorations futures
 
 - [ ] Listes dynamiques (détecter régions/vendeurs/produits depuis les données)
 - [ ] UserForm de saisie guidée des commandes
@@ -191,10 +191,10 @@ Il couvre la problématique, l'architecture, le détail technique, les bonnes pr
 
 ## 👤 Auteur
 
-**Souheil** — Projet réalisé dans une démarche de démonstration de compétences en automatisation bureautique, VBA et analyse de données.
+**Souheil DABBABI** - Projet réalisé dans une démarche de démonstration de compétences en automatisation bureautique, VBA et analyse de données.
 
 ---
 
-## 📝 Licence
+##  Licence
 
 MIT
